@@ -1,0 +1,39 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": 1,
+      "name": "Pahawang Island",,
+      "spec": "Beach Tourist Spot",
+      "gambar": "https://www.superadventure.co.id/uploads/news/2018/01/18/4affabcdf429_resize_800_600_rel_left_top.jpg"
+    },
+    {
+      "id": 2,
+      "no": 2,
+      "name": "Puncak Mas Hill",,
+      "spec": "Hill Tourist Spot",
+      "gambar": "https://www.travelz.xyz/wp-content/uploads/2018/10/wisata-puncak-mas-lampung.jpg"
+    },
+    {
+      "id": 3,
+      "no": 3,
+      "name": "Tangkil Island",
+      "spec": "Beach Tourist Spot",
+      "gambar": "http://cdn2.tstatic.net/tribunnews/foto/bank/images/pulau-tangkil_20150704_160905.jpg"
+    },
+    {
+      "id": 4,
+      "no": 4,
+      "name": "Lembah Hijau",
+      "spec": "Recreation Spot",
+      "gambar": "https://www.7saudara.com/wp-content/uploads/2018/05/alamat-fasilitas-dan-harga-tiket-lembah-hijau-lampung.png""
+    },
+    {
+      "id": 5,
+      "no": 5,
+      "name": "Batu Putu Waterfall",
+      "spec": "...",
+      "gambar": "http://malahayati.ac.id/wp-content/uploads/2015/10/air-terjun-batu-putu-sukadanaham1.jpg"
+    }
+  ]
+}
